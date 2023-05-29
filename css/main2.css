@@ -1,0 +1,57 @@
+@charset "UTF-8"
+.wrap{
+
+}
+.inner{margin: 0 auto;
+    text-align: center;
+    width: 1200px; height: 700px;
+    line-height: 100px;
+    
+    
+}
+
+/*head영역*/
+.header{width: 1200px;
+height: 100px;
+background-color: rgba(241, 158, 158, 0.671);}
+
+/*B영역*/
+.slide{width: 1200px; height: 300px;}
+.menu{width: 1200px;
+height: 150px;
+background-color: rgb(253, 203, 128);}
+.img{width: 1200px;
+height: 150px;
+background-color: rgb(248, 255, 144);}
+
+/*C영역*/
+.content{width: 1200px; height: 200px;}
+.inform{float: left;
+    width: 400px;
+height: 200px;
+background-color: rgb(136, 255, 176);}
+.gall{float: left;
+    width: 400px;
+height: 200px;
+background-color: rgb(147, 176, 255);}
+.banner{float: left;
+    width: 400px;
+height: 200px;
+background-color: rgb(97, 101, 121);}
+
+/*footer영역*/
+.footer{width: 1200px; height: 100px;
+
+}
+.logo-1{float: left;
+    width: 200px;
+height: 100px;
+background-color: rgb(205, 149, 233);}
+.copy{float: left;
+    width: 800px;
+height: 100px;
+background-color: rgb(247, 179, 220);}
+.family{float: left;
+    width: 200px;
+height: 100px;
+background-color: rgb(165, 143, 143);}
